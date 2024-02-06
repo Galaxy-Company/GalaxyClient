@@ -22,7 +22,7 @@ for Review Link
 Copy and Paste in Description
 
 ----
-Galaxy Client Download https://github.com/Galaxy-Company/GalaxyClient
+Galaxy Client Download https://github.com/Galaxy-Company/GalaxyClient/tree/main/MostRecentVersion
 Select Most Recent Version
 Credits https://www.youtube.com/@GalaxyCompanyofc
 ----
